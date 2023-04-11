@@ -2,6 +2,7 @@
 
 ## Description
 A simple portfolio using CSS tailwind and using vite+reactJS
+Designed by Ricky Primus Saputra
 
 ## Preview
 ![6](https://user-images.githubusercontent.com/34765525/230944124-3a6fd209-1bb8-484a-858a-672f6869de61.JPG)
